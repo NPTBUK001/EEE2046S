@@ -1,3 +1,4 @@
+//Bukhulu Nopote (NPTBUK001) & Tadi Kapayapundo (kpytad001)
 #include <math.h>
 #include <string.h>
 int takenum()
